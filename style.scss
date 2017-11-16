@@ -77,6 +77,15 @@ a {
   }
 }
 
+.title {
+  color: $red;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $red;
+  }
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
