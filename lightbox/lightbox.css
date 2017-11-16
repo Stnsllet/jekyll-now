@@ -1,6 +1,6 @@
 /* Preload images */
 body:after {
-  content: url("{{ site.baseurl }}/lightbox/close.png") url("{{ site.baseurl }}/lightbox/loading.gif") url("{{ site.baseurl }}/lightbox/prev.png") url("{{ site.baseurl }}/lightbox/next.png");
+  content: url(https://stnsllet.github.io/lightbox/close.png) url(https://stnsllet.github.io/lightbox/loading.gif) url(https://stnsllet.github.io/lightbox/prev.png) url(https://stnsllet.github.io/lightbox/next.png);
   display: none;
 }
 
