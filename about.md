@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# このブログについて
+自称ゲームクリエイターのStnslletが制作したゲームを公開するためのブログです。(Since 2012.)  
+いろいろあって別のブログサービスから移動しました。  
+2018年に完全移行する予定です。
 
-### More Information
+前のブログの一部の~~黒歴史~~講座等はある程度再掲するはずです。  
+そういえばここにはWikiの機能もあるみたいなのでそちらにて掲載される可能性もあると思います。
 
-A place to include any other types of information that you'd like to include about yourself.
+## ゲームについて
+RTSRPG「Millennium Legend」はりべいす・すぴブレを制作したGeraHa氏のゲームエンジンによって製作されたフリーゲームです。
 
-### Contact me
+いろいろあって数度作り直されていて、現在も未完成です。
 
-[email@domain.com](mailto:email@domain.com)
+ゲームの中身自体はGitHubにはアップしませんが、
+私がゲーム制作に使っている汎用イベントファイルや、
+外部ツールとして自作した誰得スパゲッティPythonプログラムコードをオープンソースで公開する予定です。
