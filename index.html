@@ -7,11 +7,12 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <div class="date">
+          {{ post.date | date: "%Y/%m/%d" }}
+      </div>
       <div class="entry">
         {{ post.excerpt }}
       </div>
-      <iframe src="http://stnsllet.bbs.fc2.com/?parts=1&num=5&width=140&fsize=12" width="150" height="300" frameborder="1" marginheight="10" marginwidth="0">この部分は iframe 対応のブラウザでご覧ください。</iframe>
       >><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">[{{ post.title }}]の続きを読む</a>
     </article>
   {% endfor %}
