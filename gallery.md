@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 ---
 
-#Millennium Legend ギャラリー
+## Millennium Legend ギャラリー
 
 フリーゲーム紹介サイト用にいくつかゲーム内の画像をピックアップしています。  
 流石に紹介のページが2012年の太古の黒歴史のままではアレなので、紹介ページもろともリニューアルします。
@@ -12,6 +12,7 @@ permalink: /gallery/
 なお、画像が黄色い枠線で囲まれているのは、現在の最新バージョンでは実装されていないので、ゲーム中で見ることが出来ない光景です。
 
 逐次画像が追加されることを心から願っています。
+
 | |
 |:-:|
 |<a href="{{ site.baseurl }}/images/title.png" data-lightbox="group" data-title="タイトル"><img src="{{ site.baseurl }}/images/title.png" border="0" width="570" height="320" /></a>|
