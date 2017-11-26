@@ -11,8 +11,6 @@ permalink: /gallery/
 
 なお、画像が黄色い枠線で囲まれているのは、現在の最新バージョンでは実装されていないので、ゲーム中で見ることが出来ない光景です。
 
-逐次画像が追加されることを心から願っています。
-
 | |
 |:-:|
 |<a href="{{ site.baseurl }}/images/title.png" data-lightbox="group" data-title="タイトル"><img src="{{ site.baseurl }}/images/title.png" border="0" width="800" height="600" /></a>|
