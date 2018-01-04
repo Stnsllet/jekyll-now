@@ -17,7 +17,7 @@ permalink: /link/
 [Menschheit @wiki](https://www50.atwiki.jp/menatwiki/)  
 
 ## 音楽素材サイトへのリンク
-素材を使わせていただいている方々のサイトです。
+素材を使わせていただいている方々のサイトです。  
 [M-ART](http://mart.kitunebi.com/)  
 [煉獄庭園](http://www.rengoku-teien.com/)  
 [Wingless Seraph](https://wingless-seraph.net/)  
