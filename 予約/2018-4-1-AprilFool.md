@@ -22,8 +22,8 @@ title: 2018年エイプリルフール
 過去にその「師団」と闘い合った英雄が率いる傭兵団、そして、お馴染みの国々が立ち向かっていきます。  
 
 もし昔のバージョンでこのルートを遊んだことがある方は「またアレか・・」と思うかもしれませんが、
-ストーリーは163度ぐらい転換しており、きっと驚きが待っていると思います。<span style="color:#333">(保証できませんが・・)</span>   
-あ、ちなみに昔のバージョンは既に闇に葬りました。思い出したくもないです。  
+ストーリーは103度ぐらい転換しており、きっと驚きが待っていると思います。<span style="color:#333">(保証できませんが・・)</span>   
+ちなみに昔のバージョンは既に闇に葬りました。思い出したくもないです。  
 
 さて、現在はほぼイベントしかありませんが、現状を見ていただきましょう。  
 ただし、以下のギャラリーにはエイプリルフールにちなんで、
@@ -32,5 +32,5 @@ title: 2018年エイプリルフール
 |||
 |--|--|--|  
 |<a href="{{ site.baseurl }}/images/helm.png" data-lightbox="group" data-title="とうとう兜を脱ぐ時が..."><img src="{{ site.baseurl }}/images/helm.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/stage3.png" data-lightbox="group" data-title="新章　凶悪師団編"><img src="{{ site.baseurl }}/images/stage3.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/shout.png" data-lightbox="group" data-title="もういやだ！！！"><img src="{{ site.baseurl }}/images/shout.png" border="0" width="256" height="192" /></a>|
-|<a href="{{ site.baseurl }}/images/goldenwitch.png" data-lightbox="group" data-title="黄金の魔女の恐怖"><img src="{{ site.baseurl }}/images/goldenwitch.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/darkwave.png" data-lightbox="group" data-title="関係ないけど、結局ストーリー変わっちゃったのよね"><img src="{{ site.baseurl }}/images/darkwave.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/goodbye.png" data-lightbox="group" data-title="グッバイ主人公！フォーエバー主人公！"><img src="{{ site.baseurl }}/images/goodbye.png" border="0" width="256" height="192" /></a>|
-|<a href="{{ site.baseurl }}/images/meet.png" data-lightbox="group" data-title="そういえばBルートの新キャラって20人超えたって本当ですか？"><img src="{{ site.baseurl }}/images/meet.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/laststage.png" data-lightbox="group" data-title="凶悪師団の皆さんと仲間たち"><img src="{{ site.baseurl }}/images/laststage.png" border="0" width="256" height="192" /></a>||
+|<a href="{{ site.baseurl }}/images/goldenwitch.png" data-lightbox="group" data-title="黄金の魔女の恐怖"><img src="{{ site.baseurl }}/images/goldenwitch.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/darkwave.png" data-lightbox="group" data-title="遠目で見るとドーナツに見える"><img src="{{ site.baseurl }}/images/darkwave.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/goodbye.png" data-lightbox="group" data-title="グッバイフォーエバー主人公！"><img src="{{ site.baseurl }}/images/goodbye.png" border="0" width="256" height="192" /></a>|
+|<a href="{{ site.baseurl }}/images/meet.png" data-lightbox="group" data-title="誰だっ！？"><img src="{{ site.baseurl }}/images/meet.png" border="0" width="256" height="192" /></a>|<a href="{{ site.baseurl }}/images/sepia.png" data-lightbox="group" data-title="セピア色のソレ"><img src="{{ site.baseurl }}/images/sepia.png" border="0" width="256" height="192" /></a>||
