@@ -26,8 +26,6 @@ permalink: /link/
 登録させていただいているサイトのリンクです。
 
 [フリーゲーム夢現](https://freegame-mugen.jp/)  
-[フリーゲーム総合サイト](http://f-game.jp/)  
-[ゲームモリモリ](https://www.gamemorimori.com/)  
 
 
 
