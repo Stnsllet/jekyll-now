@@ -9,10 +9,10 @@ permalink: /download/
 ## 最新版
 ### パッチ
 v0.5→v0.5a
-[Millennium Legend V0.5a Patch](https://ux.getuploader.com/millenniumlegend/download/41) (2017/04/30)
+[Millennium Legend V0.5a Patch](https://ux.getuploader.com/millenniumlegend/download/41) (2019/07/14)
 
 ### 本体
-[Millennium Legend V0.5](https://ux.getuploader.com/millenniumlegend/download/40) (2017/04/03)
+[Millennium Legend V0.5](https://ux.getuploader.com/millenniumlegend/download/40) (2019/06/24)
 
 ## すぴブレソースコード
 ソースコードの著作権は全面的にGeraHa氏にあります。  
